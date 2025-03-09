@@ -20,7 +20,7 @@ We will be calling our API throughout the next 8 modules. I have written the req
 ## Getting started
 First you will need to clone down the first module.
 
-1) Create a new directory on your local machine. I have called mine drf_course. This is your 'root directory'.
+1) Create a new directory on your local machine. I have called mine Restframework. This is your 'root directory'.
 
 2) Open a terminal and cd into the root directory.
 
@@ -28,22 +28,14 @@ First you will need to clone down the first module.
 
 ```
 #option 1 - SSH
-git clone --branch module_1 git@github.com:bobby-didcoding/drf_course.git .
+git clone --git@github.com:Mista-Log/Restframework.git .
 
 #option 2 - Github CLI
-gh repo clone bobby-didcoding/drf_course .
-git checkout module_1
+gh repo clone Mista-Log/Restframework
 
 #option 3 - HTTPS
-git clone --branch module_1 https://github.com/bobby-didcoding/drf_course.git .
+git clone --https://github.com/Mista-Log/Restframework.git
 ```
 
-***
-***
-
-## Following along
-Each module has a walk through video. All videos can be found in my (Django Rest Framework Course)[https://www.youtube.com/playlist?list=PL5VlxT4gkOFAD2wpucxHY3X2sCzhha5Kz] playlist.
-
-Please open /steps/module_1 to begin.
 ***
 ***
