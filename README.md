@@ -1,7 +1,5 @@
-# Django Rest Framework (DRF) Course
-Welcome to this full Django Rest Framework (DRF)course. 
-This course is perfect if you are looking to learn DRF and build your own API application.
-***
+# Django Rest Framework (DRF) 
+
 ***
 
 ## Prerequisites
